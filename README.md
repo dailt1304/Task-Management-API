@@ -39,7 +39,7 @@ task-api/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/dailt1304/Task-Management-API.git
-cd Task-Management-API1
+cd Task-Management-API
 ```
 
 ### 2. Install dependencies
